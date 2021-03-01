@@ -11,5 +11,3 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp;
-
-// Dia 3 51:24
