@@ -13,5 +13,3 @@ export function CompleteChallenges() {
     </div>
   );
 }
-
-// Dia 4 - 0
