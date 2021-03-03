@@ -62,5 +62,3 @@ export function ChallengeBox() {
     </div>
   );
 }
-
-// 4. 22:30
